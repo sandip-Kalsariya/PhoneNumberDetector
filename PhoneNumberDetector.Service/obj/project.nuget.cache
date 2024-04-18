@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "mU6PMQJTpkUAurXQrR96EUYsnzkMLhvnhVcfuZgaZ454+tKB/ov7dR0IkvEA0nuXJkGtqIMN38SWWQXyGHNqKQ==",
+  "success": true,
+  "projectFilePath": "D:\\Work\\Own Works\\Project\\Demo\\PhoneNumberDetector\\PhoneNumberDetector.Service\\PhoneNumberDetector.Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jheero\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\Jheero\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\Jheero\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}

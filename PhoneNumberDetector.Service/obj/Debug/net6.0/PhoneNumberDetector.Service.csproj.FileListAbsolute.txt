@@ -1,0 +1,11 @@
+D:\Work\Own Works\Project\Demo\PhoneNumberDetector\PhoneNumberDetector.Service\bin\Debug\net6.0\PhoneNumberDetector.Service.deps.json
+D:\Work\Own Works\Project\Demo\PhoneNumberDetector\PhoneNumberDetector.Service\bin\Debug\net6.0\PhoneNumberDetector.Service.dll
+D:\Work\Own Works\Project\Demo\PhoneNumberDetector\PhoneNumberDetector.Service\bin\Debug\net6.0\PhoneNumberDetector.Service.pdb
+D:\Work\Own Works\Project\Demo\PhoneNumberDetector\PhoneNumberDetector.Service\obj\Debug\net6.0\PhoneNumberDetector.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Own Works\Project\Demo\PhoneNumberDetector\PhoneNumberDetector.Service\obj\Debug\net6.0\PhoneNumberDetector.Service.AssemblyInfoInputs.cache
+D:\Work\Own Works\Project\Demo\PhoneNumberDetector\PhoneNumberDetector.Service\obj\Debug\net6.0\PhoneNumberDetector.Service.AssemblyInfo.cs
+D:\Work\Own Works\Project\Demo\PhoneNumberDetector\PhoneNumberDetector.Service\obj\Debug\net6.0\PhoneNumberDetector.Service.csproj.CoreCompileInputs.cache
+D:\Work\Own Works\Project\Demo\PhoneNumberDetector\PhoneNumberDetector.Service\obj\Debug\net6.0\PhoneNumberDetector.Service.dll
+D:\Work\Own Works\Project\Demo\PhoneNumberDetector\PhoneNumberDetector.Service\obj\Debug\net6.0\refint\PhoneNumberDetector.Service.dll
+D:\Work\Own Works\Project\Demo\PhoneNumberDetector\PhoneNumberDetector.Service\obj\Debug\net6.0\PhoneNumberDetector.Service.pdb
+D:\Work\Own Works\Project\Demo\PhoneNumberDetector\PhoneNumberDetector.Service\obj\Debug\net6.0\ref\PhoneNumberDetector.Service.dll

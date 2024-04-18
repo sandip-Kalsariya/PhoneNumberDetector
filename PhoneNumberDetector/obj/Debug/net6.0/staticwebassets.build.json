@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "0AICWQJlb5sKACfwet54dcuyfNWyDezrunD0eFqjscw=",
+  "Source": "PhoneNumberDetector",
+  "BasePath": "_content/PhoneNumberDetector",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
